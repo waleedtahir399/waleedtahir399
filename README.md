@@ -6,15 +6,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tahirwaleed399&label=Profile%20views&color=0e75b6&style=flat" alt="tahirwaleed399" /> </p>
 
-- 🔭 I’m currently working on [Souls House Project](https://github.com/tahirwaleed399/Souls-House-Frontend)
-
-- 🌱 I’m currently learning **Next Js and Node js**
+- 🌱 I’m currently learning **Python**
 
 - 👨‍💻 All of my projects are available at [https://waleed-tahir.netlify.app](https://waleed-tahir.netlify.app)
 
 - 💬 Ask me about **css , javascript , typescript , react js , node js , express js**
 
-- 📫 How to reach me **tahirwaleed399@gmail.com**
+- 📫 How to reach me **waleed.tahir@approcket.co**
 
 - 📄 Know about my experiences [https://waleed-tahir.netlify.app](https://waleed-tahir.netlify.app)
 
